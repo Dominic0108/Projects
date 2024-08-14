@@ -1,0 +1,9 @@
+body{
+    font-family: 'poppins', sans-serif;
+    background-color: darkgray;
+}
+
+.title{
+    text-align: center;
+    padding: 20px;
+}
